@@ -14,6 +14,7 @@ image: Visual Studio 2019
 install:
   - appveyor-retry git submodule update --init --recursive
   - ps: Install-Product node 10
+  - cmd: set NODE_OPTIONS=--max-old-space-size=1028
   - cd recipes && npm install && npm run package && cd ..
   - appveyor-retry npx lerna bootstrap
 
