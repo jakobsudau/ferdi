@@ -747,7 +747,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/38888?v=4",
       "profile": "https://marussy.com",
       "contributions": [
-        "code"
+        "code",
+        "maintenance"
       ]
     },
     {
@@ -810,7 +811,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1139881?v=4",
       "profile": "https://www.linkedin.com/in/yogainformatika/",
       "contributions": [
-        "code"
+        "code",
+        "platform"
       ]
     },
     {
@@ -838,7 +840,10 @@
       "profile": "https://github.com/vraravam",
       "contributions": [
         "maintenance",
-        "doc"
+        "doc",
+        "code",
+        "mentoring",
+        "review"
       ]
     }
   ],

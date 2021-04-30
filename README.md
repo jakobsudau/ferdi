@@ -195,7 +195,7 @@ If you use an AUR Helper e.g. yay, simply install it via `yay -S ferdi`.
 - [x] Adds Ferdi as a Flatpak on Flathub ([#323](https://github.com/getferdi/ferdi/issues/323)), 💖 [@lhw](https://github.com/lhw)
 
 ### Adds internal changes
-- [x] Upgrades to Electron 10.4.3
+- [x] Upgrades to Electron 12.0.5
 - [x] Switches to [`electron-spellchecker`](https://github.com/electron-userland/electron-spellchecker) to improve application size
 - [x] Minifies build files to improve app size
 - [x] Adds "npm run prepare-code" command for development to lint and beautify code
@@ -213,7 +213,7 @@ If you use an AUR Helper e.g. yay, simply install it via `yay -S ferdi`.
 
 #### Node.js
 
-Please make sure you are running NodeJS v10 or above.
+Please make sure you are running NodeJS v12. The exact node version used by the developers/contributors is specified in the [nvmrc file](./.nvmrc)
 
 #### Git
 
@@ -426,7 +426,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/dandelionadia"><img src="https://avatars0.githubusercontent.com/u/33199975?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Nadiia Ridko</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=dandelionadia" title="Code">💻</a></td>
     <td align="center"><a href="https://hohner.dev"><img src="https://avatars0.githubusercontent.com/u/649895?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Jan Hohner</b></sub></a><br /><a href="#userTesting-janhohner" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://marussy.com"><img src="https://avatars1.githubusercontent.com/u/38888?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Kristóf Marussy</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=kris7t" title="Code">💻</a></td>
+    <td align="center"><a href="https://marussy.com"><img src="https://avatars1.githubusercontent.com/u/38888?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Kristóf Marussy</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=kris7t" title="Code">💻</a> <a href="#maintenance-kris7t" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://cl.linkedin.com/in/juanvalentinmoraruiz"><img src="https://avatars0.githubusercontent.com/u/4575267?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Juan Mora</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=raicerk" title="Code">💻</a></td>
     <td align="center"><a href="https://tofran.com"><img src="https://avatars2.githubusercontent.com/u/5692603?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Francisco Marques</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=tofran" title="Code">💻</a></td>
     <td align="center"><a href="https://digitalcoyote.github.io/NuGetDefense/"><img src="https://avatars3.githubusercontent.com/u/16868093?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Curtis Carter</b></sub></a><br /><a href="#platform-digitalcoyote" title="Packaging/porting to new platform">📦</a></td>
@@ -435,12 +435,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kawarimidoll"><img src="https://avatars0.githubusercontent.com/u/8146876?v=4?s=40" width="40px;" alt=""/><br /><sub><b>カワリミ人形</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=kawarimidoll" title="Documentation">📖</a></td>
     <td align="center"><a href="https://immortal-pc.info/"><img src="https://avatars0.githubusercontent.com/u/5358076?v=4?s=40" width="40px;" alt=""/><br /><sub><b>1mm0rt41PC</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=1mm0rt41PC" title="Code">💻</a></td>
     <td align="center"><a href="http://code-addict.pl"><img src="https://avatars.githubusercontent.com/u/6313392?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Michał Kostewicz</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=k0staa" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/yogainformatika/"><img src="https://avatars.githubusercontent.com/u/1139881?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Yoga Setiawan</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=arioki1" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/yogainformatika/"><img src="https://avatars.githubusercontent.com/u/1139881?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Yoga Setiawan</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=arioki1" title="Code">💻</a> <a href="#platform-arioki1" title="Packaging/porting to new platform">📦</a></td>
     <td align="center"><a href="https://github.com/MosheGross"><img src="https://avatars.githubusercontent.com/u/77084755?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Moshe Gross</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=MosheGross" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/stnkl"><img src="https://avatars.githubusercontent.com/u/17520641?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Stephan Rumswinkel</b></sub></a><br /><a href="https://github.com/getferdi/ferdi/commits?author=stnkl" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/vraravam"><img src="https://avatars.githubusercontent.com/u/69629?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Vijay Raghavan Aravamudhan</b></sub></a><br /><a href="#maintenance-vraravam" title="Maintenance">🚧</a> <a href="https://github.com/getferdi/ferdi/commits?author=vraravam" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/vraravam"><img src="https://avatars.githubusercontent.com/u/69629?v=4?s=40" width="40px;" alt=""/><br /><sub><b>Vijay Raghavan Aravamudhan</b></sub></a><br /><a href="#maintenance-vraravam" title="Maintenance">🚧</a> <a href="https://github.com/getferdi/ferdi/commits?author=vraravam" title="Documentation">📖</a> <a href="https://github.com/getferdi/ferdi/commits?author=vraravam" title="Code">💻</a> <a href="#mentoring-vraravam" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/getferdi/ferdi/pulls?q=is%3Apr+reviewed-by%3Avraravam" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
